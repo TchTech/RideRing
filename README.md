@@ -11,8 +11,7 @@ RideRing - это платформа, разработанная для объе
 ## Видео
 
 <div>
-<img src="readme resources/1.png" width=45%/>
-<img src="readme resources/2.png" width=45%/>
+<img src="readme resources/example.gif" width="30%"/>
 </div>
 
 ## Задание 📝
@@ -55,8 +54,7 @@ RideRing - это платформа, разработанная для объе
 
 *   **Frontend:**
     *   React Native ([https://reactnative.dev/](https://reactnative.dev/))
-    *   [Укажите используемые библиотеки Frontend]
-    *   (Другие библиотеки frontend)
+    *   React Native Paper ([https://reactnativepaper.com/](https://reactnativepaper.com/))
 
 ## Установка и запуск 🚀
 
