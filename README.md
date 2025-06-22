@@ -11,7 +11,8 @@ RideRing - это платформа, разработанная для объе
 ## Видео
 
 <div>
-<img src="readme resources/example.gif" width="30%"/>
+<img src="readme resources/1.png" width="45%"/>
+<img src="readme resources/2.png" width="45%"/>
 </div>
 
 ## Задание 📝
